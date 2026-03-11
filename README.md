@@ -7,7 +7,7 @@ README.md
   Hi, I'm <strong>Abishek M </strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • JAVA • REACT• UNITY</h3>
+<h3>Full Stack Developer | JAVA • REACT • PYTHON </h3>
 
 <div align="left">
   <img align="right" width="350" src="https://raw.githubusercontent.com/keishore206/keishore206/main/AvatarStickers_20260226_220254_17721235744930.gif" />
@@ -19,7 +19,7 @@ README.md
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:keishore006@gmail.com"><img src="https://img.shields.io/badge/📧_keishore006@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:abishek.mourougane@gmail.com"><img src="https://img.shields.io/badge/📧_abishek.mourougane.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -27,32 +27,18 @@ README.md
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/keishore206">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
 
-  <a href="https://discord.com/channels/keishore_20498">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/keishore206">
+  <a href="https://github.com/AbishekMourougane">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
 
-  <a href="https://www.linkedin.com/in/keishore-g-82758228b/">
+  <a href="https://www.linkedin.com/in/abishekmourougane/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-
-  <a href="https://x.com/Keishore183211">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
-  </a>
-
-
+  
 </p>
 
-
-  <img src="https://komarev.com/ghpvc/?username=keishore206k&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -72,7 +58,7 @@ README.md
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
 </td>
 
 
@@ -81,14 +67,14 @@ README.md
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,oracle" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,oracle" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,andriodstudio,anitigravity" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman,anitigravity" />
 </td>
 </tr>
 </table>
